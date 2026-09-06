@@ -80,7 +80,7 @@ export default function ChapterPractice() {
       <main className="mx-auto max-w-3xl px-4 py-6 md:px-6">
         {!openTopic && (
           <div className="mb-4 flex flex-wrap items-center gap-2">
-            <span className="rounded-lg bg-blue-600 px-2.5 py-1 text-xs font-extrabold text-white">{bank.source || "PYQs"}</span>
+            <span className="rounded-lg bg-blue-600 px-2.5 py-1 text-xs font-extrabold text-white">{(examId === "neet" || examId === "kcet") ? examId.toUpperCase() : (bank.source || "PYQs")}</span>
             <span className="rounded-lg bg-slate-100 px-2.5 py-1 text-xs font-bold text-slate-700">{bank.total_questions} questions</span>
             <span className="ml-auto text-xs font-medium text-slate-400">Chapter {bank.chapter_no}</span>
           </div>
