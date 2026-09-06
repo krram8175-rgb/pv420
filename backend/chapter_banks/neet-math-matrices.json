@@ -10,7 +10,6 @@
   "total_questions": 0,
   "sections": [
     { "topic": "Inverse of a Matrix", "questions": [] },
-    { "topic": "Rank of Matrix", "questions": [] },
     { "topic": "Adjoint and its Properties", "questions": [] },
     { "topic": "Product of Matrices", "questions": [] },
     { "topic": "Basic Algebra of Matrices", "questions": [] },
