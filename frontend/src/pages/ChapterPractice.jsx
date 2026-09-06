@@ -101,7 +101,18 @@ export default function ChapterPractice() {
               </button>
             )}
             <div data-testid="topic-list" className="space-y-3">
-            {bank.sections.map((sec, i) => (
+            {bank.sections.some((s) => s.topic === "Full Chapter") && (
+              <button
+                data-testid="full-chapter-btn"
+                onClick={() => { setOpenTopic("Full Chapter"); setCurIdx(0); setActiveTag("All"); window.scrollTo(0, 0); }}
+                className="group flex w-full items-center gap-2.5 rounded-xl bg-emerald-600 px-4 py-3.5 shadow-md transition-all hover:-translate-y-0.5 hover:shadow-lg"
+              >
+                <FileText className="h-4 w-4 text-emerald-100" />
+                <span className="text-sm font-bold text-white">Full Chapter</span>
+                <ChevronRight className="ml-auto h-4 w-4 text-emerald-100 transition-transform group-hover:translate-x-1" />
+              </button>
+            )}
+            {bank.sections.filter((s) => s.topic !== "Full Chapter").map((sec, i) => (
               <button
                 key={sec.topic}
                 onClick={() => { setOpenTopic(sec.topic); setCurIdx(0); setActiveTag("All"); window.scrollTo(0, 0); }}

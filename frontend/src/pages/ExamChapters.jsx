@@ -10,7 +10,7 @@ const CLASSES = [
 ];
 
 // Chapters that stay unlocked in addition to the first two of each list.
-const EXTRA_FREE = new Set(["Matrices"]);
+const EXTRA_FREE = new Set(["Matrices", "Atoms"]);
 
 // Chapters that are ALWAYS locked (in every exam), regardless of position.
 const FORCE_LOCK = new Set(["Electrostatic Potential and Capacitance", "Electrochemistry"]);
@@ -26,6 +26,7 @@ const LOCK_ALL_SUBJECTS = new Set(["biology"]);
 const CHAPTER_BANKS = {
   "neet:physics:Units and Measurements": "neet-physics-units-and-measurements",
   "neet:physics:Electric Charges and Fields": "neet-physics-electric-charges-and-fields",
+  "neet:physics:Atoms": "neet-physics-atoms",
   "neet:chemistry:Some Basic Concepts of Chemistry": "neet-chemistry-some-basic-concepts-of-chemistry",
   "neet:chemistry:Solutions": "neet-chemistry-solutions",
   "neet:math:Basic Maths": "neet-math-basic-maths",
