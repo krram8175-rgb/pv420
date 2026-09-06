@@ -37,6 +37,7 @@ const CHAPTER_BANKS = {
   "kcet:physics:Electric Charges and Fields": "kcet-physics-electric-charges-and-fields",
   "kcet:physics:Atoms": "neet-physics-atoms",
   "kcet:chemistry:Some Basic Concepts of Chemistry": "neet-chemistry-some-basic-concepts-of-chemistry",
+  "kcet:chemistry:Structure of Atom": "neet-chemistry-structure-of-atom",
   "kcet:chemistry:Solutions": "neet-chemistry-solutions",
   "kcet:math:Basic Maths": "neet-math-basic-maths",
   "kcet:math:Set and Relation": "neet-math-set-and-relation",
