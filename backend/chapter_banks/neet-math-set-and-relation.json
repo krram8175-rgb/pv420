@@ -10,7 +10,6 @@
   "total_questions": 0,
   "sections": [
     { "topic": "Questions on number of relations and sets", "questions": [] },
-    { "topic": "Questions on Symmetric Transitive and Reflexive Properties", "questions": [] },
     { "topic": "Questions on Venn Diagram", "questions": [] }
   ]
 }
