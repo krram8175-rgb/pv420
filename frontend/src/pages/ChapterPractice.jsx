@@ -112,7 +112,7 @@ export default function ChapterPractice() {
                 <ChevronRight className="ml-auto h-4 w-4 text-emerald-100 transition-transform group-hover:translate-x-1" />
               </button>
             )}
-            {bank.sections.filter((s) => s.topic !== "Full Chapter").map((sec, i) => (
+            {bank.sections.filter((s) => s.topic !== "Full Chapter" && !(examId === "kcet" && /neet/i.test(s.topic))).map((sec, i) => (
               <button
                 key={sec.topic}
                 onClick={() => { setOpenTopic(sec.topic); setCurIdx(0); setActiveTag("All"); window.scrollTo(0, 0); }}
