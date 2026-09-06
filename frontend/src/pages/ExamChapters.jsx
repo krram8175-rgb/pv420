@@ -16,7 +16,7 @@ const EXTRA_FREE = new Set(["Matrices"]);
 const FORCE_LOCK = new Set(["Electrostatic Potential and Capacitance", "Electrochemistry"]);
 
 // Chapters locked only in a specific exam. Keyed by `${examId}:${chapterName}`.
-const FORCE_LOCK_BY_EXAM = new Set(["neet:Structure of Atom", "neet:Motion in a Straight Line"]);
+const FORCE_LOCK_BY_EXAM = new Set(["neet:Structure of Atom", "neet:Motion in a Straight Line", "kcet:Determinants", "kcet:Motion in a Straight Line"]);
 
 // Subjects where every chapter is locked.
 const LOCK_ALL_SUBJECTS = new Set(["biology"]);
