@@ -7,14 +7,431 @@
   "chapter": "Solutions",
   "source": "NEET",
   "mode": "image",
-  "total_questions": 49,
+  "total_questions": 81,
   "sections": [
     {
       "topic": "Full Chapter",
-      "questions": []
+      "questions": [
+        {
+          "question_no": 2001,
+          "display_no": 1,
+          "year": "KCET",
+          "question_image": "sol-fc-q1.jpg",
+          "option_images": {
+            "a": "sol-fc-q1-a.jpg",
+            "b": "sol-fc-q1-b.jpg",
+            "c": "sol-fc-q1-c.jpg",
+            "d": "sol-fc-q1-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2002,
+          "display_no": 2,
+          "year": "KCET",
+          "question_image": "sol-fc-q2.jpg",
+          "option_images": {
+            "a": "sol-fc-q2-a.jpg",
+            "b": "sol-fc-q2-b.jpg",
+            "c": "sol-fc-q2-c.jpg",
+            "d": "sol-fc-q2-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2003,
+          "display_no": 3,
+          "year": "KCET",
+          "question_image": "sol-fc-q3.jpg",
+          "option_images": {
+            "a": "sol-fc-q3-a.jpg",
+            "b": "sol-fc-q3-b.jpg",
+            "c": "sol-fc-q3-c.jpg",
+            "d": "sol-fc-q3-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2004,
+          "display_no": 4,
+          "year": "KCET",
+          "question_image": "sol-fc-q4.jpg",
+          "option_images": {
+            "a": "sol-fc-q4-a.jpg",
+            "b": "sol-fc-q4-b.jpg",
+            "c": "sol-fc-q4-c.jpg",
+            "d": "sol-fc-q4-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2005,
+          "display_no": 5,
+          "year": "KCET",
+          "question_image": "sol-fc-q5.jpg",
+          "option_images": {
+            "a": "sol-fc-q5-a.jpg",
+            "b": "sol-fc-q5-b.jpg",
+            "c": "sol-fc-q5-c.jpg",
+            "d": "sol-fc-q5-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2006,
+          "display_no": 6,
+          "year": "KCET",
+          "question_image": "sol-fc-q6.jpg",
+          "option_images": {
+            "a": "sol-fc-q6-a.jpg",
+            "b": "sol-fc-q6-b.jpg",
+            "c": "sol-fc-q6-c.jpg",
+            "d": "sol-fc-q6-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2007,
+          "display_no": 7,
+          "year": "KCET",
+          "question_image": "sol-fc-q7.jpg",
+          "option_images": {
+            "a": "sol-fc-q7-a.jpg",
+            "b": "sol-fc-q7-b.jpg",
+            "c": "sol-fc-q7-c.jpg",
+            "d": "sol-fc-q7-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2008,
+          "display_no": 8,
+          "year": "KCET",
+          "question_image": "sol-fc-q8.jpg",
+          "option_images": {
+            "a": "sol-fc-q8-a.jpg",
+            "b": "sol-fc-q8-b.jpg",
+            "c": "sol-fc-q8-c.jpg",
+            "d": "sol-fc-q8-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2009,
+          "display_no": 9,
+          "year": "KCET",
+          "question_image": "sol-fc-q9.jpg",
+          "option_images": {
+            "a": "sol-fc-q9-a.jpg",
+            "b": "sol-fc-q9-b.jpg",
+            "c": "sol-fc-q9-c.jpg",
+            "d": "sol-fc-q9-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2010,
+          "display_no": 10,
+          "year": "KCET",
+          "question_image": "sol-fc-q10.jpg",
+          "option_images": {
+            "a": "sol-fc-q10-a.jpg",
+            "b": "sol-fc-q10-b.jpg",
+            "c": "sol-fc-q10-c.jpg",
+            "d": "sol-fc-q10-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2011,
+          "display_no": 11,
+          "year": "KCET",
+          "question_image": "sol-fc-q11.jpg",
+          "option_images": {
+            "a": "sol-fc-q11-a.jpg",
+            "b": "sol-fc-q11-b.jpg",
+            "c": "sol-fc-q11-c.jpg",
+            "d": "sol-fc-q11-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2012,
+          "display_no": 12,
+          "year": "KCET",
+          "question_image": "sol-fc-q12.jpg",
+          "option_images": {
+            "a": "sol-fc-q12-a.jpg",
+            "b": "sol-fc-q12-b.jpg",
+            "c": "sol-fc-q12-c.jpg",
+            "d": "sol-fc-q12-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2013,
+          "display_no": 13,
+          "year": "KCET",
+          "question_image": "sol-fc-q13.jpg",
+          "option_images": {
+            "a": "sol-fc-q13-a.jpg",
+            "b": "sol-fc-q13-b.jpg",
+            "c": "sol-fc-q13-c.jpg",
+            "d": "sol-fc-q13-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2014,
+          "display_no": 14,
+          "year": "KCET",
+          "question_image": "sol-fc-q14.jpg",
+          "option_images": {
+            "a": "sol-fc-q14-a.jpg",
+            "b": "sol-fc-q14-b.jpg",
+            "c": "sol-fc-q14-c.jpg",
+            "d": "sol-fc-q14-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2015,
+          "display_no": 15,
+          "year": "KCET",
+          "question_image": "sol-fc-q15.jpg",
+          "option_images": {
+            "a": "sol-fc-q15-a.jpg",
+            "b": "sol-fc-q15-b.jpg",
+            "c": "sol-fc-q15-c.jpg",
+            "d": "sol-fc-q15-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2016,
+          "display_no": 16,
+          "year": "KCET",
+          "question_image": "sol-fc-q16.jpg",
+          "option_images": {
+            "a": "sol-fc-q16-a.jpg",
+            "b": "sol-fc-q16-b.jpg",
+            "c": "sol-fc-q16-c.jpg",
+            "d": "sol-fc-q16-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2017,
+          "display_no": 17,
+          "year": "KCET",
+          "question_image": "sol-fc-q17.jpg",
+          "option_images": {
+            "a": "sol-fc-q17-a.jpg",
+            "b": "sol-fc-q17-b.jpg",
+            "c": "sol-fc-q17-c.jpg",
+            "d": "sol-fc-q17-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2018,
+          "display_no": 18,
+          "year": "KCET",
+          "question_image": "sol-fc-q18.jpg",
+          "option_images": {
+            "a": "sol-fc-q18-a.jpg",
+            "b": "sol-fc-q18-b.jpg",
+            "c": "sol-fc-q18-c.jpg",
+            "d": "sol-fc-q18-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2019,
+          "display_no": 19,
+          "year": "KCET",
+          "question_image": "sol-fc-q19.jpg",
+          "option_images": {
+            "a": "sol-fc-q19-a.jpg",
+            "b": "sol-fc-q19-b.jpg",
+            "c": "sol-fc-q19-c.jpg",
+            "d": "sol-fc-q19-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2020,
+          "display_no": 20,
+          "year": "KCET",
+          "question_image": "sol-fc-q20.jpg",
+          "option_images": {
+            "a": "sol-fc-q20-a.jpg",
+            "b": "sol-fc-q20-b.jpg",
+            "c": "sol-fc-q20-c.jpg",
+            "d": "sol-fc-q20-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2021,
+          "display_no": 21,
+          "year": "KCET",
+          "question_image": "sol-fc-q21.jpg",
+          "option_images": {
+            "a": "sol-fc-q21-a.jpg",
+            "b": "sol-fc-q21-b.jpg",
+            "c": "sol-fc-q21-c.jpg",
+            "d": "sol-fc-q21-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2022,
+          "display_no": 22,
+          "year": "KCET",
+          "question_image": "sol-fc-q22.jpg",
+          "option_images": {
+            "a": "sol-fc-q22-a.jpg",
+            "b": "sol-fc-q22-b.jpg",
+            "c": "sol-fc-q22-c.jpg",
+            "d": "sol-fc-q22-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2023,
+          "display_no": 23,
+          "year": "KCET",
+          "question_image": "sol-fc-q23.jpg",
+          "option_images": {
+            "a": "sol-fc-q23-a.jpg",
+            "b": "sol-fc-q23-b.jpg",
+            "c": "sol-fc-q23-c.jpg",
+            "d": "sol-fc-q23-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2024,
+          "display_no": 24,
+          "year": "KCET",
+          "question_image": "sol-fc-q24.jpg",
+          "option_images": {
+            "a": "sol-fc-q24-a.jpg",
+            "b": "sol-fc-q24-b.jpg",
+            "c": "sol-fc-q24-c.jpg",
+            "d": "sol-fc-q24-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2025,
+          "display_no": 25,
+          "year": "KCET",
+          "question_image": "sol-fc-q25.jpg",
+          "option_images": {
+            "a": "sol-fc-q25-a.jpg",
+            "b": "sol-fc-q25-b.jpg",
+            "c": "sol-fc-q25-c.jpg",
+            "d": "sol-fc-q25-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2026,
+          "display_no": 26,
+          "year": "KCET",
+          "question_image": "sol-fc-q26.jpg",
+          "option_images": {
+            "a": "sol-fc-q26-a.jpg",
+            "b": "sol-fc-q26-b.jpg",
+            "c": "sol-fc-q26-c.jpg",
+            "d": "sol-fc-q26-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2027,
+          "display_no": 27,
+          "year": "KCET",
+          "question_image": "sol-fc-q27.jpg",
+          "option_images": {
+            "a": "sol-fc-q27-a.jpg",
+            "b": "sol-fc-q27-b.jpg",
+            "c": "sol-fc-q27-c.jpg",
+            "d": "sol-fc-q27-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2028,
+          "display_no": 28,
+          "year": "KCET",
+          "question_image": "sol-fc-q28.jpg",
+          "option_images": {
+            "a": "sol-fc-q28-a.jpg",
+            "b": "sol-fc-q28-b.jpg",
+            "c": "sol-fc-q28-c.jpg",
+            "d": "sol-fc-q28-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2029,
+          "display_no": 29,
+          "year": "KCET",
+          "question_image": "sol-fc-q29.jpg",
+          "option_images": {
+            "a": "sol-fc-q29-a.jpg",
+            "b": "sol-fc-q29-b.jpg",
+            "c": "sol-fc-q29-c.jpg",
+            "d": "sol-fc-q29-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2030,
+          "display_no": 30,
+          "year": "KCET",
+          "question_image": "sol-fc-q30.jpg",
+          "option_images": {
+            "a": "sol-fc-q30-a.jpg",
+            "b": "sol-fc-q30-b.jpg",
+            "c": "sol-fc-q30-c.jpg",
+            "d": "sol-fc-q30-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2031,
+          "display_no": 31,
+          "year": "KCET",
+          "question_image": "sol-fc-q31.jpg",
+          "option_images": {
+            "a": "sol-fc-q31-a.jpg",
+            "b": "sol-fc-q31-b.jpg",
+            "c": "sol-fc-q31-c.jpg",
+            "d": "sol-fc-q31-d.jpg"
+          },
+          "header_in_image": false
+        },
+        {
+          "question_no": 2032,
+          "display_no": 32,
+          "year": "KCET",
+          "question_image": "sol-fc-q32.jpg",
+          "option_images": {
+            "a": "sol-fc-q32-a.jpg",
+            "b": "sol-fc-q32-b.jpg",
+            "c": "sol-fc-q32-c.jpg",
+            "d": "sol-fc-q32-d.jpg"
+          },
+          "header_in_image": false
+        }
+      ]
     },
     {
-      "topic": "Full Paper — RE-NEET 2026",
+      "topic": "Full Paper \u2014 RE-NEET 2026",
       "questions": [
         {
           "question_no": 1,
