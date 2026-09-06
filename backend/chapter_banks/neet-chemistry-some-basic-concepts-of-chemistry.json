@@ -20,7 +20,8 @@
           "option_images": {
             "a": "sbc-fc-q1-a.jpg",
             "b": "sbc-fc-q1-b.jpg",
-            "c": "sbc-fc-q1-c.jpg"
+            "c": "sbc-fc-q1-c.jpg",
+            "d": "sbc-fc-q1-d.jpg"
           },
           "header_in_image": false,
           "solution_image": "sbc-fc-q1-sol.jpg"
